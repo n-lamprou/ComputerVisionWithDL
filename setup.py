@@ -27,7 +27,7 @@ setup(name='ComputerViz-DL',
 	    'tensorflow == 1.12.0',
 	    'tensorboard == 1.12.0',
 	    'scikit-image == 0.13.1',
-	    'notebook == 5.5.0',
+	    'notebook == 5.7.2',
             ]
       )
 
