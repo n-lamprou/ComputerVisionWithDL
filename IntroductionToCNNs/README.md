@@ -1,4 +1,4 @@
-## Introduction To Conolutional Neural Networks (CNNs) 
+## Introduction To Convolutional Neural Networks (CNNs) 
 
 The aim of this project is to provide a an introduction to the deep learning algorithms for computer vision tasks. In particular, an introduction to deep learning frameworks such as Tensorflow and Keras are provided through a set of jupyter notebooks. The MNIST dataset is used as an example for classification tasks.
 
